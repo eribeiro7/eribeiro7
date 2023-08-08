@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I'm Evandro Ribeiro, I'm a Technology profissional and student with experience in developing web applications with technology such as html, css, javascript, java, Php Laravel, Node JS
-https://perfil.ao/cv/muatsoft<br>
+### I'm Evandro Ribeiro, I'm a Technology profissional and student with experience in developing web applications with technology such as html, css, javascript, java, Php Laravel, Node JS, IBM BPM, FILENET
 
 <!--<div>
         <a href="https://github.com/eribeiro7"></a>
