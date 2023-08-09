@@ -6,8 +6,6 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?&username=muatsoftgit&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>-->
 <div style="display: inline-block;"> <br>
-        <img align="center" alt="rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/nodejs-original-wordmark.svg">
-        <img align="center" alt="rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg">
         <img align="center" alt="postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
         <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
         <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
