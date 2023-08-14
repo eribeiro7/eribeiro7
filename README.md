@@ -6,12 +6,12 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?&username=muatsoftgit&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </div>-->
 <div style="display: inline-block;"> <br>
-        <img align="center" alt="postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+        <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
         <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
         <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-        <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-        <img align="center" alt="Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+        <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+        <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
         <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
         <img align="center" alt="JIRA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
         <img align="center" alt="IBM FILENET" height="30" width="80" src="https://blog.trdesigner.net/wp-content/uploads/IBM_FileNet_ImplementationsA0RKO_Content_Management_Solutions.png">
