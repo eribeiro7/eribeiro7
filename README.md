@@ -14,8 +14,7 @@
         <img align="center" alt="Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
         <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
         <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-        
-        <img align="center" alt="PHP" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFileNet&psig=AOvVaw01D44iwUHqosP-dpdF8zZE&ust=1692101056688000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDk4-WN3IADFQAAAAAdAAAAABAE)">
+        <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg](https://filearchive.cnews.ru/img/book/2022/06/02/2386964.png">
 </div>
 <br>
 - 📫 Social:<br>
