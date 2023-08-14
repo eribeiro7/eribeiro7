@@ -14,8 +14,7 @@
         <img align="center" alt="Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
         <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
         <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-        <img align="center" alt="PHP" height="30" width="40" src="https://blog.trdesigner.net/wp-content/uploads/IBM_FileNet_ImplementationsA0RKO_Content_Management_Solutions.png">
-        <img align="center" alt="postgres" height="30" width="40" src="https://filearchive.cnews.ru/img/book/2022/06/02/2386964.png" alt="IBM FileNet - CNews">
+        <img align="center" alt="PHP" height="60" width="40" src="https://blog.trdesigner.net/wp-content/uploads/IBM_FileNet_ImplementationsA0RKO_Content_Management_Solutions.png">
 </div>
 <br>
 - 📫 Social:<br>
