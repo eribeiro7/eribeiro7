@@ -15,7 +15,7 @@
         <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
         <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
         <img align="center" alt="PHP" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg](https://filearchive.cnews.ru/img/book/2022/06/02/2386964.png](https://filearchive.cnews.ru/img/book/2022/06/02/2386964.png)">
-        <img src="https://filearchive.cnews.ru/img/book/2022/06/02/2386964.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 284px; height: 173px; margin: 19px 0px; width: 284px;" alt="IBM FileNet - CNews" jsname="kn3ccd" aria-hidden="false">
+        <img src="https://filearchive.cnews.ru/img/book/2022/06/02/2386964.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" alt="IBM FileNet - CNews" jsname="kn3ccd" aria-hidden="false">
 </div>
 <br>
 - 📫 Social:<br>
