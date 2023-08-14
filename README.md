@@ -20,7 +20,7 @@
         <img align="center" alt="NODE JS" height="30" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" style="max-width: 40px; height: 30px; margin: 0px; width: 40px;">
 </div>
 <br>
-- 📫 Social:<br>
+📫 ### Social:<br>
 <div>
         <a target="_blank" href="https://www.instagram.com/evanscratch/?hl=pt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
         <a target="_blank" href="https://www.linkedin.com/in/evandroribeiro-evan7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"></a>
