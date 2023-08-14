@@ -15,7 +15,7 @@
         <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
         <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
         <img align="center" alt="PHP" height="30" width="80" src="https://blog.trdesigner.net/wp-content/uploads/IBM_FileNet_ImplementationsA0RKO_Content_Management_Solutions.png">
-        <img align="center" alt="PHP" height="30" width="40" src="https://w7.pngwing.com/pngs/713/136/png-transparent-ibm-websphere-application-server-ibm-websphere-mq-rational-application-developer-ibm-purple-blue-violet-thumbnail.png">
+        <img align="center" alt="PHP" height="30" width="90" src="https://w7.pngwing.com/pngs/713/136/png-transparent-ibm-websphere-application-server-ibm-websphere-mq-rational-application-developer-ibm-purple-blue-violet-thumbnail.png">
 </div>
 <br>
 - 📫 Social:<br>
