@@ -11,6 +11,7 @@
         <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
         <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
         <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+        <img align="center" alt="LARAVEL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png">
         <img align="center" alt="JIRA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
         <img align="center" alt="IBM FILENET" height="30" width="80" src="https://blog.trdesigner.net/wp-content/uploads/IBM_FileNet_ImplementationsA0RKO_Content_Management_Solutions.png">
         <img align="center" alt="WEBSPHERE" height="30" width="100" src="https://w7.pngwing.com/pngs/713/136/png-transparent-ibm-websphere-application-server-ibm-websphere-mq-rational-application-developer-ibm-purple-blue-violet-thumbnail.png">
