@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Evandro Ribeiro, I'm a Technology profissional and student with experience in developing web applications with technology such as html, css, javascript, Php Laravel, Node JS, IBM BPM, FILENET
+### I'm Evandro Ribeiro, I'm a Technology profissional and student with experience in developing web applications with technology such as:<p> html, css, javascript, Php Laravel, Node JS, IBM BPM, FILENET
 <!--<div>
         <a href="https://github.com/eribeiro7"></a>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?&username=muatsoftgit&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
