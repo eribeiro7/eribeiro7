@@ -18,18 +18,6 @@
         <img align="center" alt="IBM BPM" height="50" width="80" src="https://www.apptigent.com/wp-content/uploads/2021/04/ibm-bpm-200-200.png" style="margin: 0px; width: 80px;">
         <img align="center" alt="NODE JS" height="30" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" style="max-width: 40px; height: 30px; margin: 0px; width: 40px;">
 
-<ul class="nav nav-tabs">
-  <li class="nav-item">
-    <a class="nav-link active" data-toggle="tab" href="#home">Home</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#menu1">Menu 1</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#menu2">Menu 2</a>
-  </li>
-</ul>
-
 <!-- Tab panes -->
 <div class="tab-content">
   <div class="tab-pane container active" id="home">...</div>
