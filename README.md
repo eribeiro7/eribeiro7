@@ -17,14 +17,6 @@
         <img align="center" alt="WEBSPHERE" height="30" width="100" src="https://w7.pngwing.com/pngs/713/136/png-transparent-ibm-websphere-application-server-ibm-websphere-mq-rational-application-developer-ibm-purple-blue-violet-thumbnail.png">
         <img align="center" alt="IBM BPM" height="50" width="80" src="https://www.apptigent.com/wp-content/uploads/2021/04/ibm-bpm-200-200.png" style="margin: 0px; width: 80px;">
         <img align="center" alt="NODE JS" height="30" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" style="max-width: 40px; height: 30px; margin: 0px; width: 40px;">
-
-<!-- Tab panes -->
-<div class="tab-content">
-  <div class="tab-pane container active" id="home">...</div>
-  <div class="tab-pane container fade" id="menu1">...</div>
-  <div class="tab-pane container fade" id="menu2">...</div>
-</div>
-        
 </div>
 <br>
 📫 Social:<br>
